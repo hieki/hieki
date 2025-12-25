@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hieki&count_private=true&theme=cobalt"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hieki&count_private=true&theme=cobalt"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieki&layout=compact&theme=cobalt"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hieki&layout=compact&theme=cobalt"/>
   </a>
 </p>
 
